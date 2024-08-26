@@ -1,4 +1,4 @@
-from scripts.find import encontrar_vortex, encontrar_nexus
+from scripts.find import main
 
 if __name__ == "__main__":
-     encontrar_vortex()
+    main()
